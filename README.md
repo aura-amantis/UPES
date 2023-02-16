@@ -1,2 +1,2 @@
 # UPES
-This repo contains all of my codes from my college year.
+This repository contains all of my codes of college year especially LAB Experiments.
